@@ -2,6 +2,8 @@
 
 ![Coverage](https://rawgit.com/imsky/covbadger/master/coverage.svg)
 
+![Coverage](coverage.svg)
+
 `covbadger` generates code coverage badges.
 
 ## Usage
